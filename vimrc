@@ -3,4 +3,6 @@ call pathogen#helptags()
 
 set fileencodings=utf-8 guifont=8x13bold encoding=utf-8 tabstop=2
 filetype plugin on
-syntax on
+syntax enable
+set background=light
+colorscheme solarized
