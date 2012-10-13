@@ -1,4 +1,7 @@
-" Use Vim settings, rather than Vi settings (much better!).
+" my vimrc - initially populated with a few lines from my historic vimrc and a
+" lot of cool stuff from scribu's dotvim archive
+"
+"" Use Vim settings, rather than Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
 set nocompatible
 
