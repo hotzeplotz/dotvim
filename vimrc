@@ -6,12 +6,8 @@
 set nocompatible
 
 " Load Pathogen
-"source ~/.vim/bundle/pathogen/autoload/pathogen.vim
-runtime bundle/vim-pathogen/autoload/pathogen.vim
+runtime bundle/pathogen/autoload/pathogen.vim
 call pathogen#infect()
-call pathogen#helptags()
-
-call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
 set fileencodings=utf-8 guifont="Droid Sans Mono" encoding=utf-8 tabstop=2
