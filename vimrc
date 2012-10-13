@@ -14,8 +14,6 @@ call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
-"source ~/.vim/gnupgmini
-
 set fileencodings=utf-8 guifont="Droid Sans Mono" encoding=utf-8 tabstop=2
 syntax enable
 set background=light
