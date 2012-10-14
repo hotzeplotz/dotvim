@@ -19,3 +19,9 @@
 [submodule "bundle/gnupg"]
 	path = bundle/gnupg
 	url = git://github.com/jamessan/vim-gnupg.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/msanders/snipmate.vim.git
+[submodule "bundle/cfengine3"]
+	path = bundle/cfengine3
+	url = git://github.com/neilhwatson/vim_cf3
